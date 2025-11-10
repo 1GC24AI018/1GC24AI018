@@ -1,0 +1,8 @@
+Title:Miss
+Full Name:Khizra Fathima
+USN :1GC24AI018
+Semester:Third
+Section:C
+Branch:AIML
+year of admission:2024
+college name:GCE

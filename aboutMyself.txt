@@ -1,7 +1,0 @@
-Title:Miss
-Full Name:Khizra Fathima
-USN:1GC24AI018
-Semester:Third
-Branch:AIML
-Year of Admision:2024
-College Name:Ghousia College of Engineering

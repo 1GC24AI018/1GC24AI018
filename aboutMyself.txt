@@ -6,3 +6,6 @@ Section:C
 Branch:AIML
 year of admission:2024
 college name:GCE
+SSLC:Rotary education society
+PUC:Rotary composite PU college
+UG degree:2nd year of Engineering(AIML)

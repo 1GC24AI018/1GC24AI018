@@ -9,3 +9,4 @@ college name:GCE
 SSLC:Rotary education society
 PUC:Rotary composite PU college
 UG degree:2nd year of Engineering(AIML)
+

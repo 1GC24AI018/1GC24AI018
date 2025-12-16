@@ -7,7 +7,7 @@ Section:C
 Subject Name:Project Management with GIT
 Academic Year:2025-26
 Mobile no:991122334455
-My Date of joining GCE:15 sept-2025
+My Date of joining  to GCE:15 oct-2024
 
 
 
